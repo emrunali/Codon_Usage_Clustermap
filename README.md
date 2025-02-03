@@ -31,8 +31,6 @@ The primary goal of this project is to:
 2. Choose a genetic code table ID (1-33) for the species of choice.
 3. The script will fetch sequences, compute codon usage, and generate visualizations.
 
-```python codon_usage_analysis.py```
-
 **Future Improvements**
 1. Include Species Names: Instead of displaying only accession IDs, integrating species names will make the results more interpretable.
 2. Incorporate scRNA-seq Data & Gene Expression Analysis:
