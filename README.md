@@ -43,13 +43,9 @@ The primary goal of this project is to:
 5. Machine Learning for Codon Optimization: Train models to predict codon optimization for synthetic biology applications.
 
 **Conclusion**
+
 This project provides a foundation for codon usage analysis and its implications in evolutionary biology, translational efficiency, and gene expression regulation. Future expansions will allow deeper insights into how codon bias impacts protein synthesis across species and conditions.
 
-
-
-
-
-
-References:
+**References:**
 1. https://github.com/rhondene/Codon-Usage-in-Python/blob/master/aa_usage.py
 2. https://www.biotite-python.org/examples/gallery/sequence/codon_usage.html
