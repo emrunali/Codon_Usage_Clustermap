@@ -30,6 +30,7 @@ The primary goal of this project is to:
 1. Run the script and enter GenBank accession numbers when prompted.
 2. Choose a genetic code table ID (1-33) for the species of choice.
 3. The script will fetch sequences, compute codon usage, and generate visualizations.
+
 ```python codon_usage_analysis.py```
 
 **Future Improvements**
