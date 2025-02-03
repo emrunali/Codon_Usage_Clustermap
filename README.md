@@ -1,8 +1,10 @@
 # Codon_Usage_Clustermap
 **Overview**
+
 This project analyzes codon usage patterns across different genes and species, clustering them based on their codon usage frequencies. By leveraging publicly available nucleotide sequences, the study provides insights into codon preferences and their potential evolutionary relationships. The visualization of codon usage similarities helps to identify patterns across species and their genetic code adaptation.
 
 **Purpose**
+
 The primary goal of this project is to:
 1. Compare codon usage across different species by analyzing their coding sequences (CDS).
 2. Identify optimal codons for each amino acid, which could provide insights into translational efficiency.
